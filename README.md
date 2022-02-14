@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/birkot" target="blank"><img src="https://img.shields.io/twitter/follow/birkot?logo=twitter&style=for-the-badge" alt="birkot" /></a> </p>
 
-- 🔭 Actualmente trabajando con [Mobilize.cl](https://mobilize.cl)
+- 🔭 Actualmente trabajando con [Mobilize.cl](https://www.mobilize.cl)
 
 - 📫 Como llegar a mi **redesvizcaya@gmail.com**
 
