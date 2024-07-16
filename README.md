@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/birkot" target="blank"><img src="https://img.shields.io/twitter/follow/birkot?logo=twitter&style=for-the-badge" alt="birkot" /></a> </p>
 
-- 🔭 Actualmente trabajando con Desarrollador Frelance Odoo
+- 🔭 Actualmente trabajando con Desarrollador en <a href="https://www.mi-erp.app/" target="blank">MI ERP</a>
 
-- 📫 Como llegar a mi **redesvizcaya@gmail.com**
+- 📫 Como llegar a mi **redesvizcaya@gmail.com** *jvizcaya@mi-erp.app*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
